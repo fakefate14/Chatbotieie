@@ -1,1 +1,2 @@
-gunicorn: web sdk:app
+web: gunicorn sdk:app
+
