@@ -7,14 +7,18 @@ pip freeze > requirement.txt
 
 Step Upload Git
 
-git init
-git commit -m "first commit"
-git config --global user.email "farm_rs106@hotmail.com"
-git config --global user.name "fakefate14"
-git remote add origin https://github.com/fakefate14/Chatbotieie.git
-git push -u origin master
+1.	git init
 
-git add -A #ใช้ได้ไหมไม่รู้ลองอยู่
+2.	git add .
+	git add -A #ใช้ได้ไหมไม่รู้ลองอยู่
+
+3.	git commit -m "first commit"
+4.	git config --global user.email "farm_rs106@hotmail.com"
+5.	git config --global user.name "fakefate14"
+6.	git remote add origin https://github.com/fakefate14/Chatbotieie.git
+7.	git push -u origin master
+
+
 
 
 
