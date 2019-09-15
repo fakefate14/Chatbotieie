@@ -1,0 +1,11 @@
+https://developers.line.biz/en/reference/messaging-api/
+
+https://developers.line.biz/en/reference/messaging-api/#wh-text
+
+
+Flex Simulator 
+https://developers.line.biz/console/fx-beta/
+
+
+Download GIT
+https://git-scm.com/download/win

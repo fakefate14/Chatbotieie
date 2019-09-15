@@ -1,0 +1,20 @@
+pip install gunicorn
+
+
+pip freeze > requirement.txt
+
+
+
+Step Upload Git
+
+git init
+git commit -m "first commit"
+git config --global user.email "farm_rs106@hotmail.com"
+git config --global user.name "fakefate14"
+git remote add origin https://github.com/fakefate14/Chatbotieie.git
+git push -u origin master
+
+git add -A #ใช้ได้ไหมไม่รู้ลองอยู่
+
+
+
